@@ -1,143 +1,320 @@
 [[SHTns]]
 arch = "aarch64"
-git-tree-sha1 = "702ab22bcf3206a437a8f2f2069b9f95c6a1fa9d"
+git-tree-sha1 = "6ab5a26f99fe3d724099e19031fb35fc181bacbc"
+lazy = true
 os = "macos"
 
     [[SHTns.download]]
-    sha256 = "34e5a94433d705c52bb874e9c13041e6b429b7c711b8911c30d79f9cf26da60c"
-    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.1+0/SHTns.v3.5.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "048723dd2ddee391bef57a78d3a0c81270228f7e5cee380d292954d2fb49b3ff"
+    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.2+0/SHTns.v3.5.2.aarch64-apple-darwin.tar.gz"
 [[SHTns]]
 arch = "aarch64"
-git-tree-sha1 = "d44a583805272643342a89fcd38c6150fb3bbafe"
+git-tree-sha1 = "d9482f56bae7d4908ba1e547314d300d242865d3"
+lazy = true
 libc = "glibc"
 os = "linux"
 
     [[SHTns.download]]
-    sha256 = "e6c3d27539187516c180cd3b0a8a886c6d8fcd1e01d012ded717b265fb6bb23d"
-    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.1+0/SHTns.v3.5.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "ba3956b8ac2eda7685564089a3373532f67b83b88623666e339cdebab5a76632"
+    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.2+0/SHTns.v3.5.2.aarch64-linux-gnu.tar.gz"
 [[SHTns]]
 arch = "aarch64"
-git-tree-sha1 = "359df5544c573e9955a6a3d938b880aaa3c796a6"
+git-tree-sha1 = "810440b91d3eef39f6db35f9af23c27fae375d06"
+lazy = true
 libc = "musl"
 os = "linux"
 
     [[SHTns.download]]
-    sha256 = "b48def125b7a53647de6f02cf2cbd54eb7cbf6c344e1fe8b12157a6eac5ebc03"
-    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.1+0/SHTns.v3.5.1.aarch64-linux-musl.tar.gz"
+    sha256 = "32b9596e980b9be2c2f6124eb4c6cf591241347e685bc009c5a72ec5d586cf3c"
+    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.2+0/SHTns.v3.5.2.aarch64-linux-musl.tar.gz"
 [[SHTns]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "3627270603afa2185d501fa020a127b9b2b64334"
+git-tree-sha1 = "b9ac0d7b1c34e67b7027897e812b60e174fdacc6"
+lazy = true
 libc = "glibc"
 os = "linux"
 
     [[SHTns.download]]
-    sha256 = "027f7ed1cac020ffe666a8500056968fa66c6972f083580b6db705a578963e4e"
-    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.1+0/SHTns.v3.5.1.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "265d90df27d0e2bf94446127045036892dd3ce7ef7c2cae631092615e0f5d3d4"
+    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.2+0/SHTns.v3.5.2.armv6l-linux-gnueabihf.tar.gz"
 [[SHTns]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "d170f1cdb51c0cbd99a8fccfd0c5d241c324bbca"
+git-tree-sha1 = "df6ccfc33fed69bb102a2d495f31f4bf88fd375a"
+lazy = true
 libc = "musl"
 os = "linux"
 
     [[SHTns.download]]
-    sha256 = "c074764473303b44be9cfc173d3719cc684b4cfdfa0619d7f6e32be0fa382e28"
-    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.1+0/SHTns.v3.5.1.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "de4dd9acc0242b5de1ecd764fc175e3a611498f25ca126da211e0e20f104dd63"
+    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.2+0/SHTns.v3.5.2.armv6l-linux-musleabihf.tar.gz"
 [[SHTns]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "3abcd5478c8d11f86ff78bb5db4bd0bd5a006a94"
+git-tree-sha1 = "1142f9182dd56a899afc8210653e72d99652425c"
+lazy = true
 libc = "glibc"
 os = "linux"
 
     [[SHTns.download]]
-    sha256 = "9dafd3db0e24c574390e5fe2892d26ae599eec9d5eb537272d1a7ed0fc478b1f"
-    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.1+0/SHTns.v3.5.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "fa2e33911867d1b8a6bc4533c81ef4ece40660d45ac1dbcd3f64d37fe327b274"
+    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.2+0/SHTns.v3.5.2.armv7l-linux-gnueabihf.tar.gz"
 [[SHTns]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "4eaf2cd69a981b1473a4dd2d39a146ca000a322a"
+git-tree-sha1 = "053b728cfef1591cfacbdf83415b74f96b416329"
+lazy = true
 libc = "musl"
 os = "linux"
 
     [[SHTns.download]]
-    sha256 = "9a97e7183a32cf9e708e467ea6b11d72b1f668abf75372e875512d19dbfda0fd"
-    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.1+0/SHTns.v3.5.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "c5350fb37c6c2f8f56099e55964d7429fbc48e1bbd92590c2c566109940d56ce"
+    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.2+0/SHTns.v3.5.2.armv7l-linux-musleabihf.tar.gz"
 [[SHTns]]
 arch = "i686"
-git-tree-sha1 = "5570c1aef6cffcfd7e4f2c71cd9733a20cdf9f70"
+git-tree-sha1 = "a8ff554b41da33fdcbf9333eb2dfea89a019c75b"
+lazy = true
 libc = "glibc"
 os = "linux"
 
     [[SHTns.download]]
-    sha256 = "4e9cc79230f89ea978d925d6a5626512954241a946a1faf96a94802a9465bb21"
-    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.1+0/SHTns.v3.5.1.i686-linux-gnu.tar.gz"
+    sha256 = "d8e73e0f776df4edc15f59ff20beb79cdfc4615bced30f13b1ff2dbbb710821d"
+    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.2+0/SHTns.v3.5.2.i686-linux-gnu.tar.gz"
 [[SHTns]]
 arch = "i686"
-git-tree-sha1 = "ab5b0672dda595c706818de1197e849828035071"
+git-tree-sha1 = "b483a2ec9365cb0cd93e6e79823280e0787088f0"
+lazy = true
 libc = "musl"
 os = "linux"
 
     [[SHTns.download]]
-    sha256 = "e93b0274807d59acec33396f4163664b88ab6d899711a4b87875105d4e22b8d6"
-    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.1+0/SHTns.v3.5.1.i686-linux-musl.tar.gz"
+    sha256 = "743d10a1fb3a8c2f4d89b8aeb69cb5ee6fbd77052239a052687bc2a6dcc04986"
+    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.2+0/SHTns.v3.5.2.i686-linux-musl.tar.gz"
 [[SHTns]]
 arch = "i686"
-git-tree-sha1 = "630f654f0c5e9ee3a7a055a5f6e2b22fd5916da3"
+git-tree-sha1 = "8f1daf6e2294cecc268a0294cb175592e3690b70"
+lazy = true
 os = "windows"
 
     [[SHTns.download]]
-    sha256 = "8d7a71f247f817b26728fc09bee6fd827a6cf4f92fca15a86c8653fc1cf00e5a"
-    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.1+0/SHTns.v3.5.1.i686-w64-mingw32.tar.gz"
+    sha256 = "86539dfdc7d3c308722539ce928710cd17fa6e5791bccfa6ef77e1031daef4b9"
+    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.2+0/SHTns.v3.5.2.i686-w64-mingw32.tar.gz"
 [[SHTns]]
 arch = "powerpc64le"
-git-tree-sha1 = "a63e299089d0cc4b3c66fc75374aec27a60f9730"
+git-tree-sha1 = "a7b5dbfb418c5fcd953d6636dcfc98e4293f50fa"
+lazy = true
 libc = "glibc"
 os = "linux"
 
     [[SHTns.download]]
-    sha256 = "a3e2d1011587a5857635483955f4b8e1ec136023de7041cc6c8d9abb46eac3a7"
-    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.1+0/SHTns.v3.5.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "c77a2a2b511b9674b1605c147166ff6fed1d63df77fcd236d788b425f8206650"
+    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.2+0/SHTns.v3.5.2.powerpc64le-linux-gnu.tar.gz"
 [[SHTns]]
 arch = "x86_64"
-git-tree-sha1 = "f1478fee4dbc85e597917e43d0239342b51ef6f1"
+git-tree-sha1 = "edcf6b714eb6dcad7c0c6cc058e0fff01da40e59"
+lazy = true
+march = "avx"
 os = "macos"
 
     [[SHTns.download]]
-    sha256 = "ce7df65a5ff2dcc6bfb8c2c4423b56ec676e811071588f60293aa17427113d88"
-    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.1+0/SHTns.v3.5.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "f79eb56ed0a696bf0a07cbbf74ff89f7a21e2f11b9c365e172a7793b4d5cd5f6"
+    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.2+0/SHTns.v3.5.2.x86_64-apple-darwin-march+avx.tar.gz"
 [[SHTns]]
 arch = "x86_64"
-git-tree-sha1 = "cf0635c39713204cc158984d44b554fff9731bfa"
+git-tree-sha1 = "401ad927c0d698f49336050688eee358724028bf"
+lazy = true
+march = "avx2"
+os = "macos"
+
+    [[SHTns.download]]
+    sha256 = "77aadb9536d3baa631918373af917bb80dd024e997a0ecdd8a58a6b5a62f098a"
+    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.2+0/SHTns.v3.5.2.x86_64-apple-darwin-march+avx2.tar.gz"
+[[SHTns]]
+arch = "x86_64"
+git-tree-sha1 = "0caff17ad272453dd647c4c19ae6bf4fb38c512b"
+lazy = true
+march = "avx512"
+os = "macos"
+
+    [[SHTns.download]]
+    sha256 = "3edd2c385192bc7e484ccd707575a100c28c556cbcaacbcf5a1f7566157d2cf9"
+    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.2+0/SHTns.v3.5.2.x86_64-apple-darwin-march+avx512.tar.gz"
+[[SHTns]]
+arch = "x86_64"
+git-tree-sha1 = "bbe6f8970f0d77fbc30366da123d5ae0570a6bea"
+lazy = true
+march = "x86_64"
+os = "macos"
+
+    [[SHTns.download]]
+    sha256 = "7d0c64fc92bbb363c7257c33584bbd6ab37373fa26018edb33efd7e34df0ade2"
+    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.2+0/SHTns.v3.5.2.x86_64-apple-darwin-march+x86_64.tar.gz"
+[[SHTns]]
+arch = "x86_64"
+git-tree-sha1 = "1cc960f7158c40794bd8357af8a7c9f3aa8b882c"
+lazy = true
 libc = "glibc"
+march = "avx"
 os = "linux"
 
     [[SHTns.download]]
-    sha256 = "2ec6dfee17e301414a28c18fca33951796387f46fbd9f56254ca800ff51be23c"
-    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.1+0/SHTns.v3.5.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "cfbc12682416fb69cde74d99da02fc8719bcdf3190bf0ef1f4d24e933c9d269b"
+    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.2+0/SHTns.v3.5.2.x86_64-linux-gnu-march+avx.tar.gz"
 [[SHTns]]
 arch = "x86_64"
-git-tree-sha1 = "8c82795fba2bf09b1cae82b25a93def38046ba8b"
+git-tree-sha1 = "95b47439691af714e6da88cfd6f79a8ba600e5c4"
+lazy = true
+libc = "glibc"
+march = "avx2"
+os = "linux"
+
+    [[SHTns.download]]
+    sha256 = "0266bc5ad8ccc132183035018374e27afab1c2b7cd613b8fff87e44d97693a5e"
+    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.2+0/SHTns.v3.5.2.x86_64-linux-gnu-march+avx2.tar.gz"
+[[SHTns]]
+arch = "x86_64"
+git-tree-sha1 = "baf73a1c3998fa90173c71c090486433c840384d"
+lazy = true
+libc = "glibc"
+march = "avx512"
+os = "linux"
+
+    [[SHTns.download]]
+    sha256 = "4fd753e1bc538b9d86fbee48b0fc804f3e331de945cfcffd255827bb7d670212"
+    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.2+0/SHTns.v3.5.2.x86_64-linux-gnu-march+avx512.tar.gz"
+[[SHTns]]
+arch = "x86_64"
+git-tree-sha1 = "ad632081acf8f2e9a2ecf5e27038fc5d12250e64"
+lazy = true
+libc = "glibc"
+march = "x86_64"
+os = "linux"
+
+    [[SHTns.download]]
+    sha256 = "24633cdcca177433fdb45af19fd030218a26342b2ff19691d7887099eeae205d"
+    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.2+0/SHTns.v3.5.2.x86_64-linux-gnu-march+x86_64.tar.gz"
+[[SHTns]]
+arch = "x86_64"
+git-tree-sha1 = "db63615e9f1b0837d2b54042c86f2146251e3cd2"
+lazy = true
 libc = "musl"
+march = "avx"
 os = "linux"
 
     [[SHTns.download]]
-    sha256 = "f2918dcdba41c2c208d77858aa1361eef886e3676f488872c3d8aa6fa1fd65e3"
-    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.1+0/SHTns.v3.5.1.x86_64-linux-musl.tar.gz"
+    sha256 = "9728e014591c7f6ad1100e94c79b655dd6963d71850ad0635bdd41a847e15326"
+    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.2+0/SHTns.v3.5.2.x86_64-linux-musl-march+avx.tar.gz"
 [[SHTns]]
 arch = "x86_64"
-git-tree-sha1 = "2897de0d3a3c30ee57c45c0f1fa83e6f43d250db"
+git-tree-sha1 = "ae91726ffa80d2aaadf4dc514a4488771b9b891e"
+lazy = true
+libc = "musl"
+march = "avx2"
+os = "linux"
+
+    [[SHTns.download]]
+    sha256 = "e7e5ea890e5f70452db3228821e82c87b24be9ba179a18093eac1d851773a902"
+    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.2+0/SHTns.v3.5.2.x86_64-linux-musl-march+avx2.tar.gz"
+[[SHTns]]
+arch = "x86_64"
+git-tree-sha1 = "2f36ea97442f0c78b8a37e53c84ed06428504795"
+lazy = true
+libc = "musl"
+march = "avx512"
+os = "linux"
+
+    [[SHTns.download]]
+    sha256 = "0c94730637be01b4b1f3a4db6af3358dd2d401439160eac0fd1d08a01a55a706"
+    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.2+0/SHTns.v3.5.2.x86_64-linux-musl-march+avx512.tar.gz"
+[[SHTns]]
+arch = "x86_64"
+git-tree-sha1 = "aa201298d06ffde24390668f216eb893b8ab5d5b"
+lazy = true
+libc = "musl"
+march = "x86_64"
+os = "linux"
+
+    [[SHTns.download]]
+    sha256 = "173846b2af5c45a50ff33fb6142edb046bf02f9a9c3b3969e2ac0af0af6861f3"
+    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.2+0/SHTns.v3.5.2.x86_64-linux-musl-march+x86_64.tar.gz"
+[[SHTns]]
+arch = "x86_64"
+git-tree-sha1 = "dad5159ee4c70bb5d386f53d9e4e9e19cb5eb4eb"
+lazy = true
+march = "avx"
 os = "freebsd"
 
     [[SHTns.download]]
-    sha256 = "30d412c219074910aa25a1d2dac1efff3ee6350cef3f433ec562e3a89844f7b7"
-    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.1+0/SHTns.v3.5.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "950219f3ed7f85c2f0f34761ee08d450d03897aaf956c46818a0899fdae147d9"
+    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.2+0/SHTns.v3.5.2.x86_64-unknown-freebsd-march+avx.tar.gz"
 [[SHTns]]
 arch = "x86_64"
-git-tree-sha1 = "61654d303f4ce28f47577a1a4308a5363e65a718"
+git-tree-sha1 = "58abe66be88c2cd0052c19d98368855d106f8ce0"
+lazy = true
+march = "avx2"
+os = "freebsd"
+
+    [[SHTns.download]]
+    sha256 = "eda113dfe5b9a8f22cd7c7f1b6ea77d6b2e520621758a900371b5953576eac92"
+    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.2+0/SHTns.v3.5.2.x86_64-unknown-freebsd-march+avx2.tar.gz"
+[[SHTns]]
+arch = "x86_64"
+git-tree-sha1 = "679066658e735a89e506141c7d8ecc37c15760c6"
+lazy = true
+march = "avx512"
+os = "freebsd"
+
+    [[SHTns.download]]
+    sha256 = "9e40cae5053f88fe626ce49d1ba84e013999f6b6ac5777856c9d0f402d6d8b38"
+    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.2+0/SHTns.v3.5.2.x86_64-unknown-freebsd-march+avx512.tar.gz"
+[[SHTns]]
+arch = "x86_64"
+git-tree-sha1 = "a2535cbb5a60e98f9533bb815a77340681322225"
+lazy = true
+march = "x86_64"
+os = "freebsd"
+
+    [[SHTns.download]]
+    sha256 = "5b60682ac266bdf7a3cca9b1ca58e7e21f99609c72da4c94ce233146a2be2d27"
+    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.2+0/SHTns.v3.5.2.x86_64-unknown-freebsd-march+x86_64.tar.gz"
+[[SHTns]]
+arch = "x86_64"
+git-tree-sha1 = "e42ae142c56c0a63d9a5c9803c96312d6ded05ad"
+lazy = true
+march = "avx"
 os = "windows"
 
     [[SHTns.download]]
-    sha256 = "fd19837d59394e17471ee0c7008698dbab21a4b4a5a66f3eba39102ad50101e2"
-    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.1+0/SHTns.v3.5.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "157f5e2f8605756b0bcf6427c57419bf6e9aa0ae97b69480de871282b81d45e0"
+    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.2+0/SHTns.v3.5.2.x86_64-w64-mingw32-march+avx.tar.gz"
+[[SHTns]]
+arch = "x86_64"
+git-tree-sha1 = "ec5ca2b586e89010782f0c8676d6fb91a6f51951"
+lazy = true
+march = "avx2"
+os = "windows"
+
+    [[SHTns.download]]
+    sha256 = "43cebfe16bc24913a0d15e7adbbdd0b0c7b637e9ee6596bcba225df17139c074"
+    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.2+0/SHTns.v3.5.2.x86_64-w64-mingw32-march+avx2.tar.gz"
+[[SHTns]]
+arch = "x86_64"
+git-tree-sha1 = "01dec2752dbf516e286c85583102b054bb883511"
+lazy = true
+march = "avx512"
+os = "windows"
+
+    [[SHTns.download]]
+    sha256 = "00ebfdf9dd7e845a3b2418a231dc23e1c90bdc92630ff6b6e62edd8861edb823"
+    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.2+0/SHTns.v3.5.2.x86_64-w64-mingw32-march+avx512.tar.gz"
+[[SHTns]]
+arch = "x86_64"
+git-tree-sha1 = "09a052252060113373d97a3724d66fd1b10ae230"
+lazy = true
+march = "x86_64"
+os = "windows"
+
+    [[SHTns.download]]
+    sha256 = "a4a82d0882f71cf6edfd693ff84e287cbf66c76de1201434b8fad8f837f120b1"
+    url = "https://github.com/JuliaBinaryWrappers/SHTns_jll.jl/releases/download/SHTns-v3.5.2+0/SHTns.v3.5.2.x86_64-w64-mingw32-march+x86_64.tar.gz"

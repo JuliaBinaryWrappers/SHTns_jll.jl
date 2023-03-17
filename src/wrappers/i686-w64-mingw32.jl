@@ -2,10 +2,11 @@
 export LibSHTns
 
 using FFTW_jll
+using CompilerSupportLibraries_jll
 JLLWrappers.@generate_wrapper_header("SHTns")
 JLLWrappers.@declare_library_product(LibSHTns, "libshtns.dll")
 function __init__()
-    JLLWrappers.@generate_init_header(FFTW_jll)
+    JLLWrappers.@generate_init_header(FFTW_jll, CompilerSupportLibraries_jll)
     JLLWrappers.@init_library_product(
         LibSHTns,
         "bin\\libshtns.dll",
