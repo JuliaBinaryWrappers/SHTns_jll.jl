@@ -4,7 +4,7 @@ export LibSHTns
 using FFTW_jll
 using LLVMOpenMP_jll
 JLLWrappers.@generate_wrapper_header("SHTns")
-JLLWrappers.@declare_library_product(LibSHTns, "@rpath/libshtns.dylib")
+JLLWrappers.@declare_library_product(LibSHTns, "/workspace/destdir/lib/libshtns.dylib")
 function __init__()
     JLLWrappers.@generate_init_header(FFTW_jll, LLVMOpenMP_jll)
     JLLWrappers.@init_library_product(
